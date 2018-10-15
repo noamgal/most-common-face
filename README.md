@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 ## Deployment
 
-In face_detect.py replace YOUR PRIVATE AZURE SUBSCRIPTIrON KEY TO FACE API SERVICE with a valid key given by azure.
+In face_detect.py replace YOUR PRIVATE AZURE SUBSCRIPTION KEY TO FACE API SERVICE with a valid key given by azure.
 
 run /usr/bin/python2.7 face_detect.py
 
